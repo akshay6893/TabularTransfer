@@ -1,0 +1,5 @@
+models/
+wandb
+_tmp*
+data
+docs/
